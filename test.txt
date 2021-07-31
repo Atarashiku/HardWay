@@ -1,0 +1,3 @@
+Does this change the file?
+If so, I'll have learned how to create a new file from python.
+And so begins the creation of Clipper 2.
