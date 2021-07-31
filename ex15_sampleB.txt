@@ -1,4 +1,0 @@
-This is the beginning of the Clipper 2 program.
-I will use something akin to exercise 15 to extract the text of my files.
-But first, it will copy the text to the clipboard.
-When will it be done?
